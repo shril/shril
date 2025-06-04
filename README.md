@@ -31,15 +31,6 @@
 
 - 🔧 **ThanosDB** – A fast, lightweight key-value store using `msgpack`. [GitHub ↗](https://github.com/shril/thanosdb)  
 - 🐼 **Koalas Contributor** – Brought `pandas` API to Spark. [Databricks ↗](https://github.com/databricks/koalas)  
-- 🧠 **Theia ML Platform** – Trained TensorFlow models and processed 2TB+ image data per pipeline.
-
----
-
-## 🏆 Awards
-
-- 🥇 **1st Prize**, Lego-G Hackathon, Groupon – Designed next-gen Dagster orchestration platform.  
-- 🥇 **1st Prize**, Ideathon – Engineered WhatsApp-based marketing prototype.  
-- ⭐ **Engineering Excellence Star**, Groupon – Reduced KTLO by 95%.
 
 ---
 
