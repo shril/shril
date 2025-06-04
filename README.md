@@ -7,11 +7,12 @@
 
 ## 🛠️ What I Do
 
-- ⚙️ Architect large-scale **data pipelines** (200TB+ scale) powering marketing and analytics for 300M+ consumers.
-- 📡 Built low-latency (~5ms) **real-time personalization service** driving 100M+ daily notifications.
-- 💾 Designed data lifecycle policies that saved **$1.5M annually**.
-- ☁️ Migrated petabyte-scale workloads to the **cloud (AWS/GCP)** with **zero downtime**.
-- 🔍 Developed a modular **Data Quality Framework** to cut anomalies by 75%.
+- 🔒 **Currently @ Roku** — Driving **privacy compliance** initiatives like **GDPR** and **CCPA** across Roku's Cloud Data Platform.  
+- 🤖 Leveraging **AI for Data Governance** to automate classification, compliance, and lineage across petabyte-scale datasets.
+- ⚙️ Previously at **Groupon**, built real-time personalization systems (~5ms latency) and 200TB+ marketing data platforms.
+- 💾 Designed cost-efficient data lifecycle policies saving **$1.5M+ annually**.
+- ☁️ Migrated mission-critical workloads to **AWS** and **GCP** with **zero downtime**.
+- 🔍 Built modular **Data Quality Frameworks** reducing data anomalies by 75%.
 
 ---
 
