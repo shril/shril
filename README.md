@@ -7,7 +7,7 @@
 
 ## 🛠️ What I Do
 
-- 🔒 **Currently @ Roku** — Driving **privacy compliance** initiatives like **GDPR** and **CCPA** across Roku's Cloud Data Platform.  
+- 📺 **Currently @ Roku** — Driving **privacy compliance** initiatives like **GDPR** and **CCPA** across Roku's Cloud Data Platform.  
 - 🤖 Leveraging **AI for Data Governance** to automate classification, compliance, and lineage across petabyte-scale datasets.
 - ⚙️ Previously at **Groupon**, built real-time personalization systems (~5ms latency) and 200TB+ marketing data platforms.
 - 💾 Designed cost-efficient data lifecycle policies saving **$1.5M+ annually**.
